@@ -1,0 +1,15 @@
+#resultado{
+    width: 1330px;
+    height: 300px;
+}
+#titulo{
+    color: rgb(134, 37, 37);
+}
+#btn{
+    width: 80px;
+    height: 30px;
+}
+#numero{
+    height: 24px;
+    width: 140px;
+}
